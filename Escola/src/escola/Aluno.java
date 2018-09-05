@@ -16,4 +16,5 @@ public class Aluno extends Pessoa {
         super(_nome, _cpf, _data);
     }
     private String matricula;
+    private String testeGitHub;
 }
